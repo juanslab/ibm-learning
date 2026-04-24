@@ -1,12 +1,14 @@
-# ibm-learning
-# IBM Course
+# IBM Learning Journey
 
-This repository contains exercises and projects completed during IBM course.
+This repository contains my work, exercises, and notes from IBM programming courses, focused on building strong foundations in Python and practical problem-solving.
 
-## Focus
+## 🚀 Purpose
+The goal of this repository is to document my learning process and improve consistency while developing core programming skills.
+
+## 📚 Contents
 - Python fundamentals
-- Basic problem solving
-- Programming logic
+- Jupyter Notebook exercises
+- Assignments and practice problems
+- Introductory TensorFlow work
 
-## Goal
-Strengthen programming fundamentals through structured practice.
+## 🛠️ Structure
